@@ -2,7 +2,7 @@
   {
     "name": "Crop Recommendation and Prediction System",
     "desc": "The Crop Recommendation and Prediction System project utilizes data-driven algorithms to provide personalized and accurate agricultural recommendations, optimizing crop selection and predicting yields based on environmental factors and historical data.",
-    "image": "./assets/images/projects/1.PNG",
+ 
     "links": {
       "code": "https://github.com/vishu0901/Crop-Recommendation-and-Prediction-System"
     }
@@ -10,7 +10,7 @@
   {
     "name": "Yoga Pose Detection System",
     "desc": "The Yoga Pose Detection System project utilizes computer vision and machine learning techniques to accurately identify and analyze yoga poses from images or video, providing real-time feedback and guidance for practitioners.",
-    "image": "./assets/images/projects/2.PNG",
+
     "links": {
       "code": "https://github.com/vishu0901/Techno-Ramdev"
     }
@@ -18,7 +18,7 @@
   {
     "name": "Road Accident Analysis using Tableau",
     "desc": "A comprehensive data visualization project that employs Tableau's powerful tools to analyze and present insights into road accidents, aiding in the identification of patterns, contributing factors, and potential mitigation strategies.",
-    "image": "./assets/images/projects/3.PNG",
+
     "links": {
       "code": "https://github.com/vishu0901/Road-Accident-Tableau-Project"
     }
@@ -26,7 +26,7 @@
   {
     "name": "HR Dashboard using Tableau",
     "desc": "Efficiently monitor and manage workforce dynamics with our Tableau-powered HR Dashboard, providing real-time insights into key human resources metrics for informed decision-making.",
-    "image": "./assets/images/projects/4.PNG",
+
     "links": {
       "code": "https://github.com/vishu0901/HR-Dashboard-Tableau-Project"
     }
@@ -34,7 +34,7 @@
   {
     "name": "Kill the Virus",
     "desc": "An engaging JavaScript game where players navigate through challenging levels, aiming to eliminate viruses and test their reflexes in a fast-paced digital battle for health.",
-    "image": "./assets/images/projects/5.PNG",
+
     "links": {
       "code": "https://github.com/vishu0901/Kill-The-Virus"
     }
